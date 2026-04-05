@@ -40,7 +40,7 @@ Portfolio/
 │── myphoto.jpeg
 │── cfs.jpeg
 │── port.jpeg
-│── Resume.pdf
+│── resume.pdf
 │── images.png
 ```
 
