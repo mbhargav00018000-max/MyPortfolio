@@ -41,7 +41,7 @@ Portfolio/
 │── cfs.jpeg
 │── port.jpeg
 │── Resume.pdf
-│── images/
+│── images.png
 ```
 
 ---
@@ -59,7 +59,7 @@ Portfolio/
 ## 🔗 Live Website
 
 👉  https://mbhargav00018000-max.github.io/MyPortfolio/
-*(Replace with your GitHub Pages link)*
+
 
 ---
 
@@ -75,7 +75,7 @@ Portfolio/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/mbhargav00018000-max/MyPortfolio.git
 ```
 
 2. Open the folder
