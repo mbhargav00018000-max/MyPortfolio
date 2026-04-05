@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# 🌐 Portfolio Website
 
 ## 📌 Overview
 
@@ -38,6 +38,8 @@ Portfolio/
 │── index.html
 │── style.css
 │── myphoto.jpeg
+│── cfs.jpeg
+│── port.jpeg
 │── Resume.pdf
 │── images/
 ```
@@ -56,8 +58,7 @@ Portfolio/
 
 ## 🔗 Live Website
 
-👉 https://your-portfolio-link-here.com
-
+👉  https://mbhargav00018000-max.github.io/MyPortfolio/
 *(Replace with your GitHub Pages link)*
 
 ---
